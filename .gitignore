@@ -250,3 +250,11 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+
+# LocalHistory Pluggin
+.localhistory/*
+
+# No binary
+bin/*
+obj/*
